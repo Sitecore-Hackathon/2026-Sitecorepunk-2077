@@ -1,0 +1,21 @@
+{
+  "name": "Vibecore",
+  "id": "vibecore",
+  "version": "1.0.0",
+  "description": "Sitecore Marketplace App Builder - describe your app and get a complete, downloadable project",
+  "author": "Sitecorepunk2077",
+  "extensionPoints": ["standalone"],
+  "permissions": [
+    "xmc:authoring:read"
+  ],
+  "configuration": {
+    "entryPoint": "/",
+    "width": 1200,
+    "height": 800,
+    "resizable": true
+  },
+  "dependencies": {
+    "@sitecore-marketplace-sdk/client": "^0.3.2",
+    "@sitecore-marketplace-sdk/xmc": "^0.4.1"
+  }
+}

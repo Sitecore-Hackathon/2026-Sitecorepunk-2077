@@ -1,0 +1,45 @@
+{
+  "name": "vibecore",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@mdi/js": "^7.4.47",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-label": "^2.1.8",
+    "@radix-ui/react-slot": "^1.2.4",
+    "@sitecore-marketplace-sdk/client": "^0.3.2",
+    "@sitecore-marketplace-sdk/xmc": "^0.4.1",
+    "@types/react-syntax-highlighter": "^15.5.13",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "diff": "^8.0.3",
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.460.0",
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-markdown": "^10.1.0",
+    "react-syntax-highlighter": "^16.1.1",
+    "remark-gfm": "^4.0.1",
+    "tailwind-merge": "^2.6.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/diff": "^7.0.2",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.0.0",
+    "vitest": "^4.0.18"
+  }
+}
