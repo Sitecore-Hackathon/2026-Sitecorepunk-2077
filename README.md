@@ -37,6 +37,8 @@
 
 **✨ Vibecore Studio** is an AI-powered Sitecore Marketplace app builder that runs as a standalone extension inside Sitecore Cloud Portal. 
 
+![](/src/public/vibecorestudio-icon.png)
+
 Users describe what they want in natural language via a guided 3-step wizard, and **✨ Vibecore Studio** generates a complete, production-ready Next.js project with the Sitecore Marketplace SDK, Blok design system, and best-practice patterns already wired in. 
 
 One-click deployment to Vercel, iterative chat refinement, and full version history make the entire build-deploy-iterate cycle seamless.
@@ -439,12 +441,36 @@ Wizard (3 steps) --> Generation --> Validation --> Review & Chat --> Deploy / Do
 - Community template marketplace for shared starting points
 - Component-level generation (generate individual components, not just full apps)
 
-# Noteworthy Outputs During Development
+# Noteworthy Agg Generations During Development
 
+Apps I built during development to test specific features, patterns, and edge cases. These are not meant to be polished or fully functional apps, but they demonstrate the variety of outputs that **✨ Vibecore Studio** can generate based on different inputs and feature selections.
+
+![alt text](image.png)
+
+---
+## SEO Governance Assistant
 ![alt text](/docs/images/screenshots/seo-goc-assist-demo.png)
 
+## MarketPlace SDK Explorer
+![alt text](/docs/images/screenshots/marketplacesdkexpl.png)
 
+## AI Content Briefs 
+![alt text](/docs/images/screenshots/aicontentbriefs.png)
 
+## Marketplace SDK Capabilities
+![alt text](/docs/images/screenshots/sdk-capabilities.jpeg)
 
+## Sitecore Content Operations
+![alt text](/docs/images/screenshots/scops.png)
 
+## Site Structure Explorer
+![alt text](/docs/images/screenshots/sitestructureexplorer.png)
 
+## Icon Picker Custom Field
+![alt text](/docs/images/screenshots/iconpicker.png)
+
+## Topic Taxonomy Picker Custom Field
+![alt text](/docs/images/screenshots/taxonmom.png)
+
+## Snake 🐍
+![alt text](/docs/images/screenshots/snake.png)
